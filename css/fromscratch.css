@@ -1,0 +1,22 @@
+.header {
+    font-size: large;
+    color: azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+
+    background-color: cadetblue
+}
+
+.list {
+    font-size: medium;
+    color: azure;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.picture{
+    font-size: larger;
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center !important;
+}
